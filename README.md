@@ -2,6 +2,7 @@
 link to dataset: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 The purpose of this program is to build a machine learning model that can identify fraudulent credit card transactions based on patterns and anomalies in the data. The program uses a Decision Tree Classifier algorithm to train the model and evaluates its performance using accuracy and classification metrics such as precision, recall, and F1-score. The program also includes a graph plot to visualize the accuracy of the model on the training and testing sets.
+
 What is the purpose of the program?
 
 The purpose of the program is to help financial institutions detect fraudulent credit card transactions and prevent financial losses. By using machine learning algorithms to analyze large volumes of transaction data, financial institutions can identify patterns and anomalies that may indicate fraudulent activity and take appropriate action.
